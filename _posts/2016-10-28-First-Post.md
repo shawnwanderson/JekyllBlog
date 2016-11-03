@@ -33,9 +33,3 @@ morning. If you don't have a personal trainer then you can post on reddit/r/fitn
 puzzling physics question and you don't have your best friend around to flesh it out with you, then you can post it on http://physics.stackexchange.com/ . Just the other day 
 I was wondering if you could become a magnetized human by getting wrapped up in the chord while you are vacuuming.
 
-
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
