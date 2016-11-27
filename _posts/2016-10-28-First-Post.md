@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Coding Blind
+category: Dev
+tags: [vim, coding, life, tech]
 ---
 
 I recently had an observation about my level of expertise in software engineering. Imagine learning to code as learning a new language, say french for example. I am now comfortable reading and writing. That is, I can enjoy reading an open source code base as much as I might enjoy reading a french novel. Well the next

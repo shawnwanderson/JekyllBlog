@@ -1,0 +1,54 @@
+<!-- Remeber ro put Content inside <div id="page-content-wrapper"> -->
+<!-- Bootstrap Core CSS -->
+<link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+<!-- Custom CSS -->
+<link href="{{ site.baseurl }}/css/simple-sidebar.css" rel="stylesheet">
+
+<!-- Sidebar -->
+<div id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+            <a href="#">
+                Categories
+            </a>
+        </li>
+        <li>
+            <a href="#tech">Technology</a>
+        </li>
+        <li>
+            <a href="#proj">Project Ideas</a>
+        </li>
+        <li>
+            <a href="#scifi">Science Fiction</a>
+        </li>
+        <li>
+            <a href="#life">Life</a>
+        </li>
+        <li>
+            <a href="#phil">Philosophy</a>
+        </li>
+        <li>
+            <a href="#tutorial">Tutorials</a>
+        </li>
+        <li>
+            <a href="#events">Events</a>
+        </li>
+    </ul>
+</div>
+<!-- /#sidebar-wrapper -->
+<a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+
+<!-- jQuery -->
+<script src="{{site.baseurl}}/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+
+<!-- Menu Toggle Script -->
+<script>
+$("#menu-toggle").click(function(e) {
+	e.preventDefault();
+	$("#wrapper").toggleClass("toggled");
+});
+</script>
+
