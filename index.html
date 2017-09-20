@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 <div class="posts">
@@ -7,6 +8,9 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <div class="date">
+    	  {{ post.date | date: "%B %e, %Y" }}
+  		</div>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -32,4 +36,3 @@ layout: default
   <br>
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 </div>
-
