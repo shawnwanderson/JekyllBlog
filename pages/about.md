@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 I graduated with a CS degree in April 2016. Since then I have been working from home. I do contracting work with django/python. I plan on attending graduate school at Simon Fraser
@@ -13,4 +14,4 @@ Other interests include lifting, yoga, music, cooking, and spending time with my
 
 ### Contact me
 
-[swanders@ualberta.ca](mailto:email@domain.com)
+[shawn_anderson@sfu.ca](mailto:shawn_anderson@sfu.ca)
