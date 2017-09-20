@@ -2,11 +2,12 @@
 layout: post
 title: Christmas Plans
 category: Life
-tags: [life, blog]
+tags:
+  - life
+  - blog
+published: true
 ---
 
-
-### My Plans For Christmas Holidays!
 
 1. Read: Critical Path - Buckminster Fuller
 
@@ -15,5 +16,3 @@ tags: [life, blog]
 3. SnowBoard: Mount Washington with my brother!
 
 4. Eat: Lots of moms food!
-
-
