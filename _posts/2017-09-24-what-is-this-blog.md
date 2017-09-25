@@ -2,9 +2,7 @@
 published: true
 ---
 
-### What is this Blog?
-
-The blog is a personal tool for documenting my thoughts and experiences. It is to serve as a digital journal. Additionally, it will serve as career tool, as an online window into who I am. It is meant to supplement to my online identity already provided by my resume, linkedIn, GitHub, Facebook, and various other personal data endpoints. This is where peers, employers, colleagues, family, and friends can access the most accurate digital filter of my personallity and identity.
+The blog is a personal tool for documenting my thoughts and experiences. It is to serve as a digital journal. Additionally, it will serve as career tool, as an online window into who I am. It is meant to supplement my online identity. An identity that currently consists of my resume, linkedIn, GitHub, Facebook, and various other personal data endpoints. This is where peers, employers, colleagues, family, and friends can access the most accurate digital filter of my personallity and identity.
 
 It is to involve all of my life, that is too say, both career and personal aspects. This is a risky move on my part, as it is likely that future employers, (not to mention all of posterity), will have access to view this blog and all of its contents. Any initiate of the workings of the digitial age would warn me that maintaining such a blog is dangerous behaviour.
 
