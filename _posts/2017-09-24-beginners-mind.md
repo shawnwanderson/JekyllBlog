@@ -5,6 +5,7 @@ published: false
 
 Fire Out is the quintessential startup. 
 
+### Blogging Workflow
 Are there plugins for prose.io? I could use a spell checker.
 
 I would like to integrate my blogging workflow into the command line. This could be done using a fish/vim/git stack. I will have macros such as **New Draft**, **new Post**, **Publish** 
@@ -13,10 +14,10 @@ I wonder if there is such a thing as a **fish environment**. For example, it wou
 
 I need to be able to call fish functions from within vim. I bet this can be done with !<command>
 
-
+### What is Data Shamanism? 
 Change blog subtitle to **Data Shaman**. Write a post about shamanism, World of Warcraft, Terrance Mckenna, Shamans in FFX? What else, Avatar? 
 
-What is this Blog?
+### What is this Blog?
 
 The blog is a personal tool for documenting my thoughts and experiences. It is to serve as a digital journal. Additionally, it will serve as career tool, as an online window into who I am. It is meant to supplement to my online identity already provided by my resume, linkedIn, GitHub, Facebook, and various other personal data endpoints. This is where peers, employers, colleagues, family, and friends can access the most accurate digital filter of my personallity and identity.
 
