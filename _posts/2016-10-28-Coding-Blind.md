@@ -10,9 +10,7 @@ tags:
 published: true
 ---
 
-I recently had an observation about my level of expertise in software engineering. Imagine learning to code as learning a new language, say french for example. I am now comfortable reading and writing. That is, I can enjoy reading an open source code base as much as I might enjoy reading a french novel. Well the next
-step in my refinement of the craft is to speak. I must stop interfacing with the machine with only my eyes. I must learn the highly efficient yet complex mediums of communication,
-that is verbal and non-verbal communication. I must speak code in three ways, through my fingers, through my mouth, and through the internet. 
+I recently had an observation about my level of expertise in software engineering. Imagine learning to code as learning a new language, say french for example. I am now comfortable reading and writing. That is, I can enjoy reading an open source code base as much as I might enjoy reading a french novel. Well the next step in my refinement of the craft of coding is to speak. I must stop interfacing with the machine with only my eyes.
 
 Vim has changed my life. Not because of how it performs as an editor. Right now I am using vim with tmux, along with Firefox, as an IDE for python-Django web development.
 Along with all my various side projects which are mostly python. To be honest, I am still slightly under performing compared to before I made the switch. Previous to vim I was 
