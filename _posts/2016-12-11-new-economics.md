@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 category: Econ
 tags:
@@ -16,4 +16,3 @@ This leads to two results
 
 1. All transactions are net positive
 2. All Agents are wealthier tomorrow than today.
-
