@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Working at Fire Out
 
@@ -25,5 +25,3 @@ It is to involve all of my life, that is too say, both career and personal aspec
 
 https://soundcloud.com/techonpolitics/episode-2-disrupting-the-game-of-inches-with-michael-fertik
 16:09 Tech on Politics Episode 2: Disrupting The Game of Inches with Michael Fertik and Tech on Politics Michael Fertik: Make sure that the full picture of you , ezpecially the full picture of you,  especially your deep passions and your abiding passions, are reflected on the internet not just your pleasuees, which are also important, they humanize you, they are part of you. what you like to eat, who your friends are, but what your passions are, people respond to candidate for office who have passions and accomplish things, make sure those are accurately reflected over time on the internet.
-
-
