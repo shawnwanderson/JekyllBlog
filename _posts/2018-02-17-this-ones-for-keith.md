@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## This One's For Keith
 
@@ -69,7 +69,3 @@ This one’s for Keith.
 
 
 ![20180214_112112.jpg]({{site.baseurl}}/_posts/20180214_112112.jpg)
-
-
-  
-  
