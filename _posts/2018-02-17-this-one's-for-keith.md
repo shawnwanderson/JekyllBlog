@@ -66,4 +66,4 @@ Respect and love the mountains please,
 This one’s for Keith.  
 
 
-![20180214_112112.jpg]({{site.baseurl}}/_posts/20180214_112112.jpg)
+![20180214_112112.jpg](https://github.com/shawnwanderson/shawnwanderson.github.io/raw/master/_posts/20180214_112112.jpg)
