@@ -5,11 +5,11 @@ permalink: /portfolio/
 published: true
 ---
 
-[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets](/pdf/constructing-scalable-system.pdf)
-
 [Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/733_proposal.pdf)
 
 [Distributed Multi Agent Learning For Portfolio Management (Proposal)](/pdf/756-proposal.pdf)
+
+[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets](/pdf/constructing-scalable-system.pdf)
 
 [Image Format Conversion with CUDA and General Purpose GPU Programming](/pdf/image-format-conversion.pdf)
 
