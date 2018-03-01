@@ -1,0 +1,25 @@
+* Randomness Tracker
+An app that tracks your random field.
+
+** How it works
+*** You install an app on your phone which will generate random numbers, at random intervals.
+
+*** random distributions defined by random parameters. Formally:
+
+*** Random parameters that randomly change at random intervals
+
+*** Your generated sequence of numbers is tracked, as is the deviance of this sequence. 
+On average, how different is the average from the expected average?
+
+*** You can easily visualize how unusual your random field has been performing.
+
+*** Observe a chart, x=time, y=unlikeliness
+
+*** Observe a chart, x=time, y=variance
+
+*** Observe a chart, x=time, y=deviance
+
+** Implementation
+*** JS React
+*** Google FireBase
+*** JS Visualization (Echarts/D3)
