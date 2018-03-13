@@ -5,6 +5,10 @@ permalink: /portfolio/
 published: true
 ---
 
+[Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/DeepTrading.pptx)
+
+[Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/ClouderaClusterDeploy.pdf)
+
 [Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/733_proposal.pdf)
 
 [Distributed Multi Agent Learning For Portfolio Management (Proposal)](/pdf/756-proposal.pdf)
