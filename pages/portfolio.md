@@ -5,9 +5,9 @@ permalink: /portfolio/
 published: true
 ---
 
-[Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/DeepTrading.pptx)
+[My slide deck for my presentation of Deep Reinforcement Learning for the Financial Portfolio Management Problem](/pdf/DeepTrading.pptx)
 
-[Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/ClouderaClusterDeploy.pdf)
+[Deploying a Distributed Cluster of Virtual Machines with CloudStack, Cloudera, and Hadoop](/pdf/ClouderaClusterDeploy.pdf)
 
 [Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/733_proposal.pdf)
 
