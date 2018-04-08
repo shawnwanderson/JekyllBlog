@@ -6,6 +6,8 @@ published: true
 ---
 ## Projects
 
+[Cryptocurrency Visualization and Forecasting](/pdf/Final-733Poster.pdf)
+
 [My slide deck for my presentation of Deep Reinforcement Learning for the Financial Portfolio Management Problem](/pdf/DeepTrading.pptx)
 
 [Deploying a Distributed Cluster of Virtual Machines with CloudStack, Cloudera, and Hadoop](/pdf/ClouderaClusterDeploy.pdf)
