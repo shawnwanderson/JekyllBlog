@@ -6,21 +6,22 @@ published: true
 ---
 ## Projects
 
-[Cryptocurrency Visualization and Forecasting](/pdf/Final-733Poster.pdf)
+### Cryptocurrency Modelling
+[Visualizing and Forecasting the Cryptocurrency Ecosystem (Video)](https://www.youtube.com/watch?v=WHZEmDe2IAE&feature=youtu.be)
 
-[My slide deck for my presentation of Deep Reinforcement Learning for the Financial Portfolio Management Problem](/pdf/DeepTrading.pptx)
+[Visualizing and Forecasting the Cryptocurrency Ecosystem (Poster)](/pdf/Final-733Poster.pdf)
 
-[Deploying a Distributed Cluster of Virtual Machines with CloudStack, Cloudera, and Hadoop](/pdf/ClouderaClusterDeploy.pdf)
+[Visualizing and Forecasting the Cryptocurrency Ecosystem (Report)](/pdf/visualizingAndForecastingCryptocurrencyEcosystem.pdf)
 
-[Visualizing the Cryptocurrency Ecosystem (Proposal)](/pdf/733_proposal.pdf)
+[Deep Reinforcement Learning for the Financial Portfolio Management Problem (Slide Deck)](/pdf/DeepTrading.pptx)
 
 [Distributed Multi Agent Learning For Portfolio Management (Proposal)](/pdf/756-proposal.pdf)
 
-[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets](/pdf/constructing-scalable-system.pdf)
+[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets (Report)](/pdf/constructing-scalable-system.pdf)
 
-[Image Format Conversion with CUDA and General Purpose GPU Programming](/pdf/image-format-conversion.pdf)
+### AI, Machine Learning, and Signal Processing
 
-[An Analysis of Locking Techniques in Multi-Threaded Programming](/pdf/analysis-locking-techniques.pdf)
+[State of the Art Reinforcement Learning and Evolution Strategy: A comparison of Scalability](/pdf/state-art-reinforcement.pdf)
 
 [Evaluating Dense Binary Encoding for Regression](/pdf/evaluating-dense-binary.pdf)
 
@@ -29,6 +30,15 @@ published: true
 [Movement Prediction Based on EEG Signals using Hidden Markov Models](/pdf/eeg-project.pdf)
 
 [Music Information Retreival in African Music Field Recordings](/pdf/Music_Information_Retreival.pdf)
+
+### Big Data Systems
+
+[Deploying a Distributed Cluster of Virtual Machines with CloudStack, Cloudera, and Hadoop](/pdf/ClouderaClusterDeploy.pdf)
+
+[Image Format Conversion with CUDA and General Purpose GPU Programming](/pdf/image-format-conversion.pdf)
+
+[An Analysis of Locking Techniques in Multi-Threaded Programming](/pdf/analysis-locking-techniques.pdf)
+
 
 ## Paper Summaries
 
@@ -40,7 +50,7 @@ published: true
 
 [From CUDA to OpenCL: Towards a Performance-portable Solution for Multi-platform GPU Programming](/pdf/CUDA_Paper_Report.pdf)
 
-## Side Projects
+## Side Projects and Art
 
 [Buy Bitcoin Edmonton]() - I have since lost the domain for this and lost track of the source code RIP:
 
