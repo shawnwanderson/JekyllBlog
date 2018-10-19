@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Media
-[RBC Amplify co-op. My team was featured in the promotional video.](https://www.youtube.com/watch?v=sU8z5yiRKF4)
+[Data Scientist at RBC Amplify 2018](https://www.youtube.com/watch?v=sU8z5yiRKF4)
 
 My team won the award for most disruptive internal solution with our product Bundle. Bundle
 solves access management in the bank by leveraging machine learning to produce optimal access packages
