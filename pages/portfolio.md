@@ -4,6 +4,15 @@ title: Portfolio
 permalink: /portfolio/
 published: true
 ---
+
+## Media
+[RBC Amplify co-op. My team was featured in the promotional video.](https://www.youtube.com/watch?v=sU8z5yiRKF4)
+
+My team won the award for most disruptive internal solution with our product Bundle. Bundle
+solves access management in the bank by leveraging machine learning to produce optimal access packages
+bases on patterns in existing access data. For this solution we used matrix factorization, clustering,
+network modelling, and d3.js for visualizations. The video portrays me as a designer, but I was of course a data scientist.
+
 ## Projects
 
 ### Cryptocurrency Modelling
