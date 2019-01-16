@@ -16,6 +16,8 @@ network modelling, and d3.js for visualizations. The video portrays me as a desi
 ## Projects
 
 ### Cryptocurrency Modelling
+[Market Visualization Demo with Marketflow - Long Tail Financial](https://youtu.be/e761__eb61s)
+
 [Visualizing and Forecasting the Cryptocurrency Ecosystem (Video)](https://www.youtube.com/watch?v=WHZEmDe2IAE&feature=youtu.be)
 
 [Visualizing and Forecasting the Cryptocurrency Ecosystem (Poster)](/pdf/Final-733Poster.pdf)
