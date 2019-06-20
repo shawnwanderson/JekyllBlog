@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Installing Hugo on Digital Ocean (with fish shell)
-
 ```
 sudo apt-get update
 sudo apt-get -y upgrade
