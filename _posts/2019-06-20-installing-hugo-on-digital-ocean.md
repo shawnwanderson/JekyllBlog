@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Installing Hugo on Digital Ocean (with fish shell)
 
