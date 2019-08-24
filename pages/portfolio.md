@@ -6,6 +6,12 @@ published: true
 ---
 
 ## Media
+[Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://drive.google.com/file/d/1Oi6toW4e1UcoEjEyQ2-2WBpWeF9eRodd/view?usp=sharing)
+
+This is a workshop tutorial on how to use machine learning to build profitable AI
+trading systems in cryptocurrency markets. Thanks to Bhaneeta for introducing me
+to the great team at blockgeeks.com
+
 [Data Scientist at RBC Amplify 2018](https://www.youtube.com/watch?v=sU8z5yiRKF4)
 
 My team won the award for most disruptive internal solution with our product Bundle. Bundle
@@ -69,4 +75,4 @@ I made the following website as an outline for a business idea I had in Fall 201
 
 [Spirit of the Forest Audio Collage](https://soundcloud.com/shawn-anderson-796291663/spirit-of-the-forest-audio-collage):
 
-When I first moved to Vancouver in May 2017, I was continuously bombarded by a stream of art and artists. I became imbued with the mystic energy which resonates here. An energy emerging from the ocean and reverberating about the mountains. An energy felt, and altered by all beings which have inhabited this geolocation, past and present. In this natural enclave, the people are inadvertantly possesed by spirits and demons of both gayan and cosmic nature. In this shamanistic state of traversing the rich ether of Vancouver, I felt a compulsion to join the artists, to manifest my subjective experience into an artifact which can be preserved, shared, and studied by all of posterity. Behold, that artifact which captures my experience of May 2017, My first month of living in Vancouver British Comumbia:
+When I first moved to Vancouver in May 2017, I was continuously bombarded by a stream of art and artists. I became imbued with the mystic energy which resonates here. An energy emerging from the ocean and reverberating about the mountains. An energy felt, and altered by all beings which has inhabited this geolocation, past and present. In this natural enclave, the people are inadvertantly possesed by spirits and demons of both gayan and cosmic nature. In this shamanistic state of traversing the rich ether of Vancouver, I felt a compulsion to join the artists, to manifest my subjective experience into an artifact which can be preserved, shared, and studied by all of posterity. Behold, that artifact which captures my experience of May 2017, My first month of living in Vancouver British Comumbia:
