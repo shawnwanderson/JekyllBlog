@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Media
-[Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/I601lRxg5SY)
+[Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/I601lRxg5SY)  
 [(Intro) Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/deMINRPtLa8)
 
 This is a workshop tutorial on how to use machine learning to build profitable AI
