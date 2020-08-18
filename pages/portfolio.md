@@ -21,6 +21,8 @@ bases on patterns in existing access data. For this solution we used matrix fact
 network modelling, and d3.js for visualizations. The video portrays me as a designer, but I was of course a data scientist.
 
 ## Projects
+### Sustainability and Decarbonization
+[Decarbonization and Sustainability Proposal for socialcapital.com](/pdf/Decarbonization and Sustainability v0.1.0 - August 1st - Shawn Anderson.pdf)
 
 ### Cryptocurrency Modelling
 [Market Visualization Demo with Marketflow - Long Tail Financial](https://youtu.be/e761__eb61s)
