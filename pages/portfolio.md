@@ -13,15 +13,15 @@ An essay that I wrote on strategic land management for sustainability and decarb
 
 [Imagining a New Financial Architecture - The Economics of Wellbeing Podcast](https://anchor.fm/mark-anielski/episodes/37--Shawn-Anderson-Imagining-a-new-financial-architecture-in-a-post-Covid-19-Crisis-world-ec6865)
 
-[Crypto Community Supports Paralyzed Entrepreneur - The Trader Cobb Show](https://lbry.tv/@longtailfintech:7/Trader_Cobb_2019:3)
-
-[The Rise of The New World - The Future is Now - AIBC Summit Malta 2019 (EP 10)](https://lbry.tv/@longtailfintech:7/LTF_AIBC_Future_is_now:9)
-
 ## 2019
 [Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/I601lRxg5SY)   
 This is a workshop tutorial on how to use machine learning to build profitable AI
 trading systems in cryptocurrency markets. Thanks to Bhaneeta for introducing me
 to the great team at blockgeeks.com
+
+[Crypto Community Supports Paralyzed Entrepreneur - The Trader Cobb Show](https://lbry.tv/@longtailfintech:7/Trader_Cobb_2019:3)
+
+[The Rise of The New World - The Future is Now - AIBC Summit Malta 2019 (EP 10)](https://lbry.tv/@longtailfintech:7/LTF_AIBC_Future_is_now:9)
 
 ## 2018
 [Data Scientist at RBC Amplify](https://www.youtube.com/watch?v=sU8iRKF)  
