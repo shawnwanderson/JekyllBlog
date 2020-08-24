@@ -5,59 +5,61 @@ permalink: /portfolio/
 published: true
 ---
 
-## Media
-[Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/I601lRxg5SY)  
-[(Intro) Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/deMINRPtLa8)
+## 2020
+[Decarbonization and Sustainability Proposal for socialcapital.com](/pdf/Decarbonization and Sustainability v0.1.0 - August 1st - Shawn Anderson.pdf)
+An essay that I wrote on strategic land management for sustainability and decarbonization. 
 
+[Decentralized Banking is Possible - Bloom Living Podcast](https://www.buzzsprout.com/88535/3714335-decentralized-banking-is-possible-longtail-financial-s04-ep16-kieran-macleod-and-shawn-anderson?play=true)
+
+[Imagining a New Financial Architecture - The Economics of Wellbeing Podcast](https://anchor.fm/mark-anielski/episodes/37--Shawn-Anderson-Imagining-a-new-financial-architecture-in-a-post-Covid-19-Crisis-world-ec6865)
+
+[Crypto Community Supports Paralyzed Entrepreneur - The Trader Cobb Show](https://lbry.tv/@longtailfintech:7/Trader_Cobb_2019:3)
+
+[The Rise of The New World - The Future is Now - AIBC Summit Malta 2019 (EP 10)](https://lbry.tv/@longtailfintech:7/LTF_AIBC_Future_is_now:9)
+
+## 2019
+[Blockgeeks workshop: AI in Cryptocurrency Markets - August 2019](https://youtu.be/I601lRxg5SY)   
 This is a workshop tutorial on how to use machine learning to build profitable AI
 trading systems in cryptocurrency markets. Thanks to Bhaneeta for introducing me
 to the great team at blockgeeks.com
 
-[Data Scientist at RBC Amplify 2018](https://www.youtube.com/watch?v=sU8z5yiRKF4)
-
+## 2018
+[Data Scientist at RBC Amplify](https://www.youtube.com/watch?v=sU8iRKF)  
 My team won the award for most disruptive internal solution with our product Bundle. Bundle
 solves access management in the bank by leveraging machine learning to produce optimal access packages
 bases on patterns in existing access data. For this solution we used matrix factorization, clustering,
 network modelling, and d3.js for visualizations. The video portrays me as a designer, but I was of course a data scientist.
 
-## Projects
-### Sustainability and Decarbonization
-[Decarbonization and Sustainability Proposal for socialcapital.com](/pdf/Decarbonization and Sustainability v0.1.0 - August 1st - Shawn Anderson.pdf)
+[Temporally Dynamic Visualizations of the Cryptocurrency Market](/pdf/Vis_Project_Fall_2018.pdf)
 
-### Cryptocurrency Modelling
 [Market Visualization Demo with Marketflow - Long Tail Financial](https://youtu.be/e761__eb61s)
 
-[Visualizing and Forecasting the Cryptocurrency Ecosystem (Video)](https://www.youtube.com/watch?v=WHZEmDe2IAE&feature=youtu.be)
-
-[Visualizing and Forecasting the Cryptocurrency Ecosystem (Poster)](/pdf/Final-733Poster.pdf)
-
-[Visualizing and Forecasting the Cryptocurrency Ecosystem (Report)](/pdf/visualizingAndForecastingCryptocurrencyEcosystem.pdf)
+[Visualizing and Forecasting the Cryptocurrency Ecosystem (Video)](https://www.youtube.com/watch?v=WHZEmDe2IAE&feature=youtu.be), [Poster](/pdf/Final-733Poster.pdf), [Report](/pdf/visualizingAndForecastingCryptocurrencyEcosystem.pdf)
 
 [Deep Reinforcement Learning for the Financial Portfolio Management Problem (Slide Deck)](/pdf/DeepTrading.pptx)
 
-[Distributed Multi Agent Learning For Portfolio Management (Proposal)](/pdf/756-proposal.pdf)
-
-[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets (Report)](/pdf/constructing-scalable-system.pdf)
-
-### AI, Machine Learning, and Signal Processing
-
 [State of the Art Reinforcement Learning and Evolution Strategy: A comparison of Scalability](/pdf/state-art-reinforcement.pdf)
 
-[Evaluating Dense Binary Encoding for Regression](/pdf/evaluating-dense-binary.pdf)
-
-[Recommendation Systems Applied to the Yelp Database](/pdf/Recomm_Yelp.pdf)
-
-[Movement Prediction Based on EEG Signals using Hidden Markov Models](/pdf/eeg-project.pdf)
-
-[Music Information Retreival in African Music Field Recordings](/pdf/Music_Information_Retreival.pdf)
-
-### Big Data Systems
+[Distributed Multi Agent Learning For Portfolio Management (Proposal)](/pdf/756-proposal.pdf)
 
 [Deploying a Distributed Cluster of Virtual Machines with CloudStack, Cloudera, and Hadoop](/pdf/ClouderaClusterDeploy.pdf)
 
 [Image Format Conversion with CUDA and General Purpose GPU Programming](/pdf/image-format-conversion.pdf)
 
 [An Analysis of Locking Techniques in Multi-Threaded Programming](/pdf/analysis-locking-techniques.pdf)
+
+## 2017
+[Constructing a Scalable System for Identifying Arbitrage in Cryptocurrency and Foreign Exchange Markets (Report)](/pdf/constructing-scalable-system.pdf)
+
+[Recommendation Systems Applied to the Yelp Database](/pdf/Recomm_Yelp.pdf)
+
+[Evaluating Dense Binary Encoding for Regression](/pdf/evaluating-dense-binary.pdf)
+
+## 2016
+[Movement Prediction Based on EEG Signals using Hidden Markov Models](/pdf/eeg-project.pdf)
+
+## 2015
+[Music Information Retreival in African Music Field Recordings](/pdf/Music_Information_Retreival.pdf)
 
 
 ## Paper Summaries
